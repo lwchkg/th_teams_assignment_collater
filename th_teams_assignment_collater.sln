@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "th_teams_assignment_collater", "th_teams_assignment_collater\th_teams_assignment_collater.csproj", "{04154808-F536-41C9-8B2E-C62559B304AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8461356A-3ADE-4C82-A977-FEE45B9A518C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04154808-F536-41C9-8B2E-C62559B304AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04154808-F536-41C9-8B2E-C62559B304AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04154808-F536-41C9-8B2E-C62559B304AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04154808-F536-41C9-8B2E-C62559B304AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69416D3-0946-4107-BC6F-D4C0875AE541}
+	EndGlobalSection
+EndGlobal
